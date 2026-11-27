@@ -32,5 +32,6 @@ Our team demonstrated the project and discussed its design, functionality and po
 - Add a camera module and GPS sensors so that the rover could take a picture of the "landmine" and send it back to the user.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/229c1329-bb7c-40b6-8d12-73a41bf90a80" width="500" alt="Rover Image">
+  <img src="https://github.com/user-attachments/assets/0aa3a518-e7d4-4ce7-9c4a-ee43ae543c1f" width="500" alt="Rover Image">
 </p>
+
