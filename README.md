@@ -29,7 +29,9 @@ Our team demonstrated the project and discussed its design, functionality and po
 - Improved navigation: Making it completely autonomous through the use of sensors that allow for the rover to detect and navigate past obstacles
 - More reliable metal detection: Due to our limited budget, our metal sensor can only detect copper reliably up to a very small depth. If we had a greater budget, we could buy a more sophisticated sensor.
 - Build a proper user interface to display notifications from the rover
-- Add a camera module and GPS sensors so that the rover could take a picture of the "landmine" and send it back to the user. 
+- Add a camera module and GPS sensors so that the rover could take a picture of the "landmine" and send it back to the user.
+
+## Rover Prototype and Demonstration
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0aa3a518-e7d4-4ce7-9c4a-ee43ae543c1f" width="500" alt="Rover Image">
