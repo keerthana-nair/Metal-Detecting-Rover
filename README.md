@@ -1,5 +1,5 @@
 # Metal Detecting Rover
-An metal-detecting rover developed with mentorship and technical guidance from engineers at BAE Systems. Uses a Raspberry Pi Robo Pico board with integrated motor drivers and MicroPython to control the motors and sensor.
+A metal-detecting rover developed with mentorship and technical guidance from engineers at BAE Systems. Uses a Raspberry Pi Robo Pico board with integrated motor drivers and MicroPython to control the motors and sensor.
 
 
 I worked in a team of 4 students between October 2024 and July 2025 to build a prototype rover capable of navigating through a 5x5 grid and detecting buried copper using a metal detector sensor. As part of the software side of the team, my role was to control the motors and ensure that the rover stops when metal is detected and notifies the user. 
