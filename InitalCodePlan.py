@@ -1,3 +1,5 @@
+"""This code is where I tested initial components and planned out the software"""
+
 """How to code the Raspberry Pi using the gpiozero library"""
 """reference: https://projects.raspberrypi.org/en/projects/physical-computing/14"""
 #This library uses Broadcom (BCM) pin numbering for the GPIO pins, as opposed to physical (BOARD) numbering
