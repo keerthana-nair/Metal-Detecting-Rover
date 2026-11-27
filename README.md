@@ -1,4 +1,4 @@
-# Metal-Detecting-Rover
+# Metal Detecting Rover
 An metal-detecting rover developed with mentorship and technical guidance from engineers at BAE Systems. Uses a Raspberry Pi Robo Pico board with integrated motor drivers and MicroPython to control the motors and sensor.
 
 
@@ -32,3 +32,4 @@ Our team demonstrated the project and discussed its design, functionality and po
 - Add a camera module and GPS sensors so that the rover could take a picture of the "landmine" and send it back to the user.
 
 
+<img width="720" height="1600" alt="Rover Image" src="https://github.com/user-attachments/assets/229c1329-bb7c-40b6-8d12-73a41bf90a80" />
